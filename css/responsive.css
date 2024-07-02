@@ -76,7 +76,7 @@
     display: block;
     padding: 10px;
   }
-
+    
   .megamenu ul li:first-child {
     display: none;
   }
@@ -536,6 +536,9 @@
     padding-right: 0px;
     margin-bottom: 30px;
   }
+  .tranding-gome-right-side{
+    margin-top: 1.5rem;
+ }
 
 
 }
@@ -726,7 +729,9 @@
   .tranding-main-home {
     margin-top: 8.3rem;
   }
-
+ .tranding-gome-right-side{
+    margin-top: 1.5rem;
+ }
   .platform-style-two .upper-box {
     margin-bottom: 40px;
   }
