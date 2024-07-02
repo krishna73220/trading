@@ -549,7 +549,9 @@
   .banner-carousel .owl-nav {
     display: none;
   }
-
+.seperator-line{
+  margin-right: 10px;
+}
   .main-header .menu-right-content .btn-box {
     display: none;
   }
