@@ -69,7 +69,7 @@
 
 
 :root{
-  --theme-color: #fe5924;
+  --theme-color: #26ba5e;
   --theme-color-two: #26ba5e;
   --theme-color-three: #26ba5e;
   --secondary-color: #1b1e31;
@@ -12440,7 +12440,7 @@ label.error{
 /* ******************************************************************************** */
 
 .greeen-color-custom{
-  color: #038735;
+  color: #038735 !important;
 }
 .list-item .fa-solid{
 color: #038735;
@@ -12479,6 +12479,11 @@ color: #038735;
 }
 iframe{
   border-radius: 5px;
+}
+.tranding-meet-cotch{
+  font-weight: 900;
+  font-size: 3rem;
+ 
 }
 
 
