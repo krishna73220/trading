@@ -551,7 +551,13 @@
   .home-tranding-sec{
     margin-top: 3 !important;
   }
+.buttom-fix-btn h2 ,p{
+text-align: center;
 
+}
+.buttom-fix-btn p{
+font-size: 14px;
+}
   .banner-carousel .owl-nav {
     display: none;
   }
