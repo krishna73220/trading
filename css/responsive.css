@@ -209,6 +209,10 @@
 
 @media only screen and (max-width: 991px) {
 
+  /* .home-tranding-sec{
+    margin-top: 0 !important;
+  } */
+
   .banner-carousel .slide-item:before {
     width: 100%;
   }
