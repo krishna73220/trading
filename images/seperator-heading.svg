@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 89 9" width="89" height="9">
+  <defs>
+    <filter x="-50%" y="-50%" width="200%" height="200%" id="f1">
+      <feGaussianBlur stdDeviation="28.7"></feGaussianBlur>
+    </filter>
+  </defs>
+  <style>.a{filter:url(#f1);fill:none;stroke:#6aad37;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.3}.b{fill:none;stroke:#6aad37;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.3}</style>
+  <path fill-rule="evenodd" class="a" d="m3.1 5.6c-10.3 0 51.6-8.1 84.9 0"></path>
+  <path fill-rule="evenodd" class="b" d="m3.1 5.6c-10.3 0 51.6-8.1 84.9 0"></path>
+</svg>
