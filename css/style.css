@@ -75,7 +75,7 @@
    --text-color: #6e6e6e;
    --title-color: #1b1e31;
    --text-font: 'Mulish', sans-serif;
-   --title-font: 'Syne', sans-serif;
+   --title-font: 'Manrope' sans-serif;
  }
 
 
@@ -12561,7 +12561,12 @@
    padding: 12px 25px;
    background-color: green;
    border-radius: 30px;
-   color: white;
-  
+   color: white; 
 
  }
+ .lower-text{
+  transition: all 0.5s;
+ }
+.lower-text:hover{
+  background-color: #038735;
+}
