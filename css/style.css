@@ -12559,7 +12559,7 @@
 
  .buttom-ragister-now {
    padding: 12px 25px;
-   background-color: green;
+   background-color: #198754;
    border-radius: 30px;
    color: white; 
 
@@ -12569,4 +12569,12 @@
  }
 .lower-text:hover{
   background-color: #038735;
+}
+.tranding-pop-btn{
+  position:fixed;
+  right: -43px;
+  top: 40%;
+  z-index: 999 !important;
+  transform: rotate(-90deg);
+
 }
